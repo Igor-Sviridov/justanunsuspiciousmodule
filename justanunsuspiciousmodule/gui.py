@@ -1,7 +1,7 @@
 
 import numpy as np
 from matplotlib import pyplot as plt
-from core import core
+from justanunsuspiciousmodule import core
 # %matplotlib inline
 # Prevents the pop-up graphs in a separate window.
 get_ipython().run_line_magic('matplotlib', 'inline')
